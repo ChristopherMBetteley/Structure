@@ -1,2 +1,20 @@
 ﻿body {
 }
+
+p{
+    color: lightgrey;
+    font-family: 'Comic Sans MS';
+}
+article{
+    float:left;
+    margin-left: 160px;
+    padding: 1em;
+}
+aside{
+    max-width: 150px;
+    float: left;
+    margin:0;
+
+}
+
+
